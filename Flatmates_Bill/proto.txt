@@ -1,0 +1,13 @@
+#ProtoType of Flatmate_Bill
+
+#description:
+    This app will make a deal with flatmate to pay the bill for each person to make a fairness cycle to
+    pay for each person that equals to days.
+
+#Classes
+
+Flatmate_bill:
+    def__init__ (self, payment, id):
+
+app:
+    def__init__(self, shares):
